@@ -11,4 +11,4 @@ UI experiment on a Curriculum Vitae
 
 
 ## Preview
-![ui-demo](https://github.com/hupratt/makita/blob/master/serverless-cv.gif?raw=true)
+![ui-demo](https://github.com/hupratt/rihab-cv/blob/master/serverless-cv.gif?raw=true)
